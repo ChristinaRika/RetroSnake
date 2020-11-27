@@ -1,2 +1,2 @@
 # RetroSnake
-C project
+- a little retro snake game based on terminal.
